@@ -9,4 +9,4 @@
 #### Currently I have only implemented it for Checking Squat positions.
 #### Mediapipe Model contains voice assistant which guides you based on your position.
 #### All the requirements are present in *requirements.txt* file.
-#####   pip install -r requirements.txt (to download all required dependencies)
+#### *pip install -r requirements.txt* (to download all required dependencies)
